@@ -17,7 +17,10 @@ In addition, I was curious to see what changes Cole made from his 2022 season to
 The Data For this was scraped from the baseball savant website using the baseballr package
 
 ## Analysis
-Pitches Cole through were grouped together based on the pitch type and plotted according based on their horizontal and vertical spin induced movement. 
+Pitches Cole through were grouped together based on the pitch type and plotted according based on their horizontal and vertical spin induced movement. First, we have the 2022 pitch movement chart. each pitch type is indicated by a different color 
+<img src= '/Users/jackschmell/Documents/Screen Shot 2024-01-03 at 3.07.23 PM.png'>
+
+
 
 
 ## Results
