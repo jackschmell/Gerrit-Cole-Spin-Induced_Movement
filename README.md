@@ -29,7 +29,7 @@ To see just how much more movement the cutter generated in 2023 compared to 2022
 
 <img src = 'Screen Shot 2024-01-03 at 3.33.44 PM.png'> 
 
-The table varifies the results we saw in the table. Cole's cutter had much more spin induced movement in 2023 than in 2022. 
+The table varifies the results we saw in the table. Cole's cutter had much more spin induced movement in 2023 than in 2022. Rounded, on average, the cutter moved about 2.6 more inches in the latter year!
 
 
 
