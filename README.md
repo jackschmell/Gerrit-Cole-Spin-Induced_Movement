@@ -26,6 +26,9 @@ Next, we have the 2023 spin induced pitch movement chart. Again, each pitch is g
 From the comparison of the two charts, it is clear that Cole's cutter had much more movement in 2023 than it did in 2022. This will most definitely get hitters off balance and increases the effectives of a secondary pitch, behind his dominatant 4-Seam Fastball. 
 
 To see just how much more movement the cutter generated in 2023 compared to 2022, here is a chart showing the average overall movement of each pitch type(calculuated using the Pythagorean theorem) in these two years : 
+<img src = 'Screen Shot 2024-01-03 at 3.33.44 PM.png'>
+
+The table varifies the results we saw in the table. Cole's cutter had much more spin induced movement in 2023 than in 2022. 
 
 
 
