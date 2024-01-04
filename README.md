@@ -17,7 +17,7 @@ In addition, I was curious to see what changes Cole made from his 2022 season to
 The Data For this was scraped from the baseball savant website using the baseballr package
 
 ## Analysis
-Pitches Cole through were grouped together based on the pitch type and plotted according based on their horizontal and vertical spin induced movement. First, we have the 2022 pitch movement chart. Each pitch type is indicated by a different color 
+Pitches Cole threw were grouped together based on the pitch type and plotted according based on their horizontal and vertical spin induced movement. First, we have the 2022 pitch movement chart. Each pitch type is indicated by a different color 
 <img src= 'Screen Shot 2024-01-03 at 3.07.23 PM.png'> 
 
 Next, we have the 2023 spin induced pitch movement chart. Again, each pitch is grouped by color. 
@@ -29,7 +29,7 @@ To see just how much more movement the cutter generated in 2023 compared to 2022
 
 <img src = 'Screen Shot 2024-01-03 at 3.33.44 PM.png'> 
 
-The table varifies the results we saw in the table. Cole's cutter had much more spin induced movement in 2023 than in 2022. Rounded, on average, the cutter moved about 2.6 more inches in the latter year! 
+The table varifies the results we saw in the graphs. Cole's cutter had much more spin induced movement in 2023 than in 2022. Rounded, on average, the cutter moved about 2.6 more inches in the latter year! 
 
 
 
